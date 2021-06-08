@@ -23,7 +23,7 @@ We ran both notebooks with windows sizes from 1-10 and found the following resul
 # Summary
 Which model has a lower loss?
 
-***We found that Closing price model has lower loss.***
+***We found that the Closing price model has lower loss through any of the window sizes tested.***
 
 Which model tracks the actual values better over time?
 
