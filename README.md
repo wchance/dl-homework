@@ -23,12 +23,12 @@ We ran both notebooks with windows sizes from 1-10 and found the following resul
 # Summary
 Which model has a lower loss?
 
-*We found that Closing price model has lower loss.*
+***We found that Closing price model has lower loss.***
 
 Which model tracks the actual values better over time?
 
-*Closing price model mimics the actual values much better.
+***Closing price model mimics the actual values much better.***
 
 Which window size works best for the model?
 
-*Closing price model windows size of 9 and FNG model windows size of 8.*
+***Closing price model windows size of 9 and FNG model windows size of 8.***
